@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+}
+
+.header a {
+    color: rgb(33, 197, 230);
+}
+
+.header nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 15%;
+    list-style: none;
+    padding-left: 40%;
+    padding-top: 4%;
+}
+
+
+/* ---------TABLET VIEW---------- */
+@media (min-width: 667px) and (max-width: 1024px) {
+
+    .header nav ul {
+        gap: 70%;
+        padding-left: 60%;
+    }
+}
+
+/* ---------DESKTOP VIEW---------- */
+@media (min-width: 1025px) {
+    .header nav ul {
+        gap: 70%;
+        padding-left: 60%;
+    }
+
+    .header a {
+        font-size: 4vh;
+    }
+}
