@@ -1,5 +1,5 @@
 # Playground
-Playground! Right now showing who is in space right now.
+Playground! Showing who is in space right now.
 
 ## Run project
 To run this project locally, follow these steps:
@@ -8,7 +8,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory.
 3. Install dependencies by running `npm install`.
 4. Start the development server by running `npm start`.
-5. Open local host
+5. Open local host.
 
 ## Template
 
