@@ -1,8 +1,10 @@
 import React from 'react'
 import "./about.css";
+import { Hero } from './Hero';
 
 export const AboutContent = () => {
     return (
-        <div className='about-div'>I'm from AboutContent.jsx</div>
+        <div> < Hero />
+            <div className='about-div'>This page is a playground area ty try out code!</div></div>
     )
 }

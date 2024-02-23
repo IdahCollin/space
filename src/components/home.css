@@ -2,3 +2,8 @@
     padding-top: 100px;
     padding-left: 30px;
 }
+
+.home-div ul {
+    list-style-type: none;
+    padding: 0;
+}
