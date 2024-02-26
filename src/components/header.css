@@ -13,10 +13,9 @@
 
 .header nav ul {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 15%;
     list-style: none;
-    padding-left: 40%;
     padding-top: 4%;
 }
 
@@ -25,8 +24,7 @@
 @media (min-width: 667px) and (max-width: 1024px) {
 
     .header nav ul {
-        gap: 70%;
-        padding-left: 60%;
+        gap: 50%;
     }
 }
 
@@ -34,7 +32,6 @@
 @media (min-width: 1025px) {
     .header nav ul {
         gap: 70%;
-        padding-left: 60%;
     }
 
 }
