@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import "./home.css";
 import { Hero } from './Hero';
+import { LottieComponent } from "./LottieComponent"
 
 export const HomeContent = () => {
     const [peopleInSpace, setPeopleInSpace] = useState([]);
@@ -29,6 +30,7 @@ export const HomeContent = () => {
                         </li>
                     ))}
                 </ul>
+                <LottieComponent />
             </div>
         </div>
     );
