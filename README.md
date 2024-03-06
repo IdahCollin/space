@@ -1,5 +1,5 @@
 # Playground
-Playground! Showing who is in space right now.
+Playground! Showing who is in space right now using API. Lottie animation.
 
 ## Run project
 To run this project locally, follow these steps:
