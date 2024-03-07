@@ -1,5 +1,6 @@
 # Playground
-Playground! Showing who is in space right now using API. Lottie animation.
+Playground! 
+HTML, CSS, JavaScript, React, ReactRouter, RefHook, Lottie animation. Showing who is in space right now using API.
 
 ## Run project
 To run this project locally, follow these steps:
